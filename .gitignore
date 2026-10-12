@@ -1,0 +1,14 @@
+.env
+*.env
+secrets/
+*.key
+node_modules/
+__pycache__/
+.venv/
+dist/
+bin/
+obj/
+*.log
+*.jsonl
+*.db
+.pytest_cache/
